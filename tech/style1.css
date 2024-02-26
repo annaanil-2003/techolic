@@ -1,0 +1,247 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#container1{
+    width: 100%;
+    height: 20px;
+    background-color: #DFFF80;
+    margin-top: 10px;
+}
+p{
+    font-size: 10px;
+    margin-top: -10px;
+    font-family: "Slate For OnePlus";
+}
+nav{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+}
+nav ul{
+    text-align: end;
+    float: right;
+    display: flex;
+    margin-top: 40px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Slate For OnePlus";
+    padding: 45px;
+    color: black;
+}
+nav ul li a button{
+    border: solid 2px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 80px;
+    height: 25px;
+    background-color: #80C0B6;
+}
+.image1{
+    width: 100%;
+    height: 675px;
+    margin-top: 0px;
+}
+.logo{
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.h3{
+    font-size: 60px;
+    font-family: "Slate For OnePlus";
+    padding-left: 150px;
+    position: absolute;
+    margin-top: -550px;
+}
+.but1{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: 0;
+    background-color: #DFFF80;
+    padding-top: 40px;
+}
+.image2{
+    margin-top: -565px;
+    margin-left: 250px;
+}
+.image3{
+    margin-top: -515px;
+    margin-left: 650px;
+}
+.image4{
+    width: 100%;
+    height: 550px;
+    margin-top: -250px;
+}
+
+ 
+   
+.image6{
+    width: 100%;
+    margin-top: -930px;
+    height: 800px;
+}
+.image7{
+    width: 100%;
+    height: 200px;
+    margin-top: -150px;
+}
+.image8{
+    width: 100%;
+    margin-top: -1200px;
+}
+.image9{
+    width: 100%;
+    height: 900px;
+    margin-top: -800px;
+}
+
+.heading{
+    padding-left: 550px;
+    font-family: "Slate For OnePlus";
+    font-size: 32px;
+    margin-top: -100px;
+}
+.image11{
+    width: 250px;
+    height: 100px;
+    margin-top: -500px;
+    padding-left: 1200px;
+}
+.image12{
+    width: 250px;
+    height: 100px;
+    margin-top: -250px;
+    margin-left: -50px;
+}
+.image10{
+    width: 1385;
+    height: 300px;
+    margin-top: -150px;
+}
+.image13{
+    width: 1200px;
+    height: 300px;
+    padding-left: 100px;
+    margin-top: -340px;
+}
+
+
+@media screen and (max-width: 600px)
+{
+    .image1{
+    width: 100%;
+    height: 505px;
+    margin-top: 0px;
+}
+    .h3{
+    font-size: 25px;
+    font-family: "Slate For OnePlus";
+    padding-left: 20px;
+    position: absolute;
+    margin-top: -400px;
+}
+    .logo{
+    padding-left: 10px;
+    margin-top: 10px;
+        width: 80px;
+        height: 40px;
+}
+    nav ul{
+    
+    display: flex;
+    margin-top: 10px;
+}
+    nav ul li a{
+    text-decoration: none;
+    font-size: 10px;
+    font-family: "Slate For OnePlus";
+    padding: 10px;
+    color: black;
+}
+    nav ul li a button{
+    border: solid 1px;
+    border-radius: 5px;
+    font-size: 10px;
+    width: 50px;
+    height: 15px;
+    background-color: #80C0B6;
+}
+    .image2{
+    margin-top: -385px;
+    margin-left: 50px;
+        width: 200px;
+}
+.image3{
+    margin-top: -360px;
+    margin-left: 180px;
+    width: 200px;
+}
+    .image11{
+    width: 150px;
+    height: 50px;
+    margin-top: -400px;
+    padding-left: 240px;
+}
+.image12{
+    width: 150px;
+    height: 50px;
+    margin-top: -300px;
+    margin-left: -50px;
+}
+    .image4{
+    width: 100%;
+    height: 250px;
+    margin-top: -320px;
+}
+.image6{
+    width: 100%;
+    height: 200px;
+    margin-top: -350px;
+}
+.but1{
+    width: 50px;
+    height: 5px;
+    border-radius: 10px;
+    border: 0;
+    background-color: #DFFF80;
+    padding-top: 30px;
+}
+    .image7{
+    width: 100%;
+    height: 100px;
+    margin-top: -150px;
+}
+    .image8{
+    width: 100%;
+    margin-top: -650px;
+        height: 500px;
+}
+.image9{
+    width: 100%;
+    height: 500px;
+    margin-top: -450px;
+}
+    .image5{
+    width: 100%;
+        height: 500px;
+    margin-top: -100px;
+}
+    .image10{
+    width: 350px;
+    height: 100px;
+    margin-top: -80px;
+}
+    .image13{
+    width: 350px;
+    height: 200px;
+    padding-left: 0px;
+    margin-top: -120px;
+}
+}
